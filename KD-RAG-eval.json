@@ -1,0 +1,706 @@
+[
+  {
+    "id": "5731b64f0fdd8d15006c6479",
+    "title": "Protestantism",
+    "context": "Protestantism is a form of Christian faith and practice which originated with the Protestant Reformation,[a] a movement against what its followers considered to be errors in the Roman Catholic Church. It is one of the three major divisions of Christendom, together with Roman Catholicism and Eastern Orthodoxy. Anglicanism is sometimes considered to be independent from Protestantism.[b] The term derives from the letter of protestation from Lutheran princes in 1529 against an edict condemning the teachings of Martin Luther as heretical.",
+    "question": "What type of faith is Protestantism?",
+    "answers": {
+      "text": [
+        "Christian"
+      ],
+      "answer_start": [
+        27
+      ]
+    }
+  },
+  {
+    "id": "56f8b80e9e9bad19000a039d",
+    "title": "Brain",
+    "context": "The brain is an organ that serves as the center of the nervous system in all vertebrate and most invertebrate animals. Only a few invertebrates such as sponges, jellyfish, adult sea squirts and starfish do not have a brain; diffuse or localised nerve nets are present instead. The brain is located in the head, usually close to the primary sensory organs for such senses as vision, hearing, balance, taste, and smell. The brain is the most complex organ in a vertebrate's body. In a typical human, the cerebral cortex (the largest part) is estimated to contain 15\u201333 billion neurons, each connected by synapses to several thousand other neurons. These neurons communicate with one another by means of long protoplasmic fibers called axons, which carry trains of signal pulses called action potentials to distant parts of the brain or body targeting specific recipient cells.",
+    "question": "What is the center of the nervous system in all creatures?",
+    "answers": {
+      "text": [
+        "The brain"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "id": "56df75d15ca0a614008f9a9a",
+    "title": "Alexander_Graham_Bell",
+    "context": "Alexander Graham Bell (March 3, 1847 \u2013 August 2, 1922) was a Scottish-born[N 3] scientist, inventor, engineer and innovator who is credited with patenting the first practical telephone.",
+    "question": "What is Bell most famous for inventing?",
+    "answers": {
+      "text": [
+        "telephone"
+      ],
+      "answer_start": [
+        175
+      ]
+    }
+  },
+  {
+    "id": "56cdaf0362d2951400fa6808",
+    "title": "Spectre_(2015_film)",
+    "context": "Spectre (2015) is the twenty-fourth James Bond film produced by Eon Productions. It features Daniel Craig in his fourth performance as James Bond, and Christoph Waltz as Ernst Stavro Blofeld, with the film marking the character's re-introduction into the series. It was directed by Sam Mendes as his second James Bond film following Skyfall, and was written by John Logan, Neal Purvis, Robert Wade and Jez Butterworth. It is distributed by Metro-Goldwyn-Mayer and Columbia Pictures. With a budget around $245 million, it is the most expensive Bond film and one of the most expensive films ever made.",
+    "question": "Which company made Spectre?",
+    "answers": {
+      "text": [
+        "Eon Productions"
+      ],
+      "answer_start": [
+        64
+      ]
+    }
+  },
+  {
+    "id": "570a76fd6d058f1900182e7a",
+    "title": "FC_Barcelona",
+    "context": "Domestically, Barcelona has won 23 La Liga, 27 Copa del Rey, 11 Supercopa de Espa\u00f1a, 3 Copa Eva Duarte and 2 Copa de la Liga trophies, as well as being the record holder for the latter four competitions. In international club football, Barcelona has won five UEFA Champions League titles, a record four UEFA Cup Winners' Cup, a shared record five UEFA Super Cup, a record three Inter-Cities Fairs Cup and a record three FIFA Club World Cup trophies. Barcelona was ranked first in the IFFHS Club World Ranking for 1997, 2009, 2011, 2012 and 2015 and currently occupies the second position on the UEFA club rankings. The club has a long-standing rivalry with Real Madrid; matches between the two teams are referred to as El Cl\u00e1sico.",
+    "question": "How many Copa del Rey trophies has Barcelona won?",
+    "answers": {
+      "text": [
+        "27"
+      ],
+      "answer_start": [
+        44
+      ]
+    }
+  },
+  {
+    "id": "572e82aacb0c0d14000f120c",
+    "title": "Elevator",
+    "context": "Starting in the coal mines, by the mid-19th century elevators were operated with steam power and were used for moving goods in bulk in mines and factories. These steam driven devices were soon being applied to a diverse set of purposes - in 1823, two architects working in London, Burton and Hormer, built and operated a novel tourist attraction, which they called the \"ascending room\". It elevated paying customers to a considerable height in the center of London, allowing them a magnificent panoramic view of downtown.",
+    "question": "For which industry were elevators first used?",
+    "answers": {
+      "text": [
+        "coal mines"
+      ],
+      "answer_start": [
+        16
+      ]
+    }
+  },
+  {
+    "id": "572783e85951b619008f8bf9",
+    "title": "Dominican_Order",
+    "context": "The Order of Preachers (Latin: Ordo Praedicatorum, hence the abbreviation OP used by members), more commonly known after the 15th century as the Dominican Order or Dominicans, is a Roman Catholic religious order founded by the Spanish priest Saint Dominic de Guzman in France and approved by Pope Honorius III (1216\u201327) on 22 December 1216. Membership in this \"mendicant\" order includes friars, nuns, active sisters, and lay or secular Dominicans (formerly known as tertiaries, though recently there has been a growing number of Associates, who are unrelated to the tertiaries) affiliated with the order.",
+    "question": "What is the Latin for Order of Preachers?",
+    "answers": {
+      "text": [
+        "Ordo Praedicatorum"
+      ],
+      "answer_start": [
+        31
+      ]
+    }
+  },
+  {
+    "id": "57267a3ef1498d1400e8e10e",
+    "title": "Carnival",
+    "context": "The term Carnival is traditionally used in areas with a large Catholic presence. However, the Philippines, a predominantly Roman Catholic country, does not celebrate Carnival anymore since the dissolution of the Manila Carnival after 1939, the last carnival in the country. In historically Lutheran countries, the celebration is known as Fastelavn, and in areas with a high concentration of Anglicans and Methodists, pre-Lenten celebrations, along with penitential observances, occur on Shrove Tuesday. In Eastern Orthodox nations, Maslenitsa is celebrated during the last week before Great Lent. In German-speaking Europe and the Netherlands, the Carnival season traditionally opens on 11/11 (often at 11:11 a.m.). This dates back to celebrations before the Advent season or with harvest celebrations of St. Martin's Day.",
+    "question": "When does Fastelavn occur?",
+    "answers": {
+      "text": [
+        "Shrove Tuesday"
+      ],
+      "answer_start": [
+        487
+      ]
+    }
+  },
+  {
+    "id": "56de9ed2cffd8e1900b4ba37",
+    "title": "Space_Race",
+    "context": "The Space Race was a 20th-century competition between two Cold War rivals, the Soviet Union (USSR) and the United States (US), for supremacy in spaceflight capability. It had its origins in the missile-based nuclear arms race between the two nations that occurred following World War II, enabled by captured German rocket technology and personnel. The technological superiority required for such supremacy was seen as necessary for national security, and symbolic of ideological superiority. The Space Race spawned pioneering efforts to launch artificial satellites, unmanned space probes of the Moon, Venus, and Mars, and human spaceflight in low Earth orbit and to the Moon. The competition began on August 2, 1955, when the Soviet Union responded to the US announcement four days earlier of intent to launch artificial satellites for the International Geophysical Year, by declaring they would also launch a satellite \"in the near future\". The Soviet Union beat the US to this, with the October 4, 1957 orbiting of Sputnik 1, and later beat the US to the first human in space, Yuri Gagarin, on April 12, 1961. The Space Race peaked with the July 20, 1969 US landing of the first humans on the Moon with Apollo 11. The USSR tried but failed manned lunar missions, and eventually cancelled them and concentrated on Earth orbital space stations. A period of d\u00e9tente followed with the April 1972 agreement on a co-operative Apollo\u2013Soyuz Test Project, resulting in the July 1975 rendezvous in Earth orbit of a US astronaut crew with a Soviet cosmonaut crew.",
+    "question": "Whose technology enabled the Space Race between the Soviet Union and the united States?",
+    "answers": {
+      "text": [
+        "German rocket technology"
+      ],
+      "answer_start": [
+        308
+      ]
+    }
+  },
+  {
+    "id": "5730ed42497a881900248a67",
+    "title": "Bird",
+    "context": "Birds (Aves) are a group of endothermic vertebrates, characterised by feathers, toothless beaked jaws, the laying of hard-shelled eggs, a high metabolic rate, a four-chambered heart, and a lightweight but strong skeleton. Birds live worldwide and range in size from the 5 cm (2 in) bee hummingbird to the 2.75 m (9 ft) ostrich. They rank as the class of tetrapods with the most living species, at approximately ten thousand, with more than half of these being passerines, sometimes known as perching birds or, less accurately, as songbirds.",
+    "question": "What is a group of endothermic vertebrates characterised by feathers and toothless beaked jaws?",
+    "answers": {
+      "text": [
+        "Birds"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "id": "57260946ec44d21400f3d81d",
+    "title": "Royal_Dutch_Shell",
+    "context": "In February 1907, the Royal Dutch Shell Group was created through the amalgamation of two rival companies: the Royal Dutch Petroleum Company of the Netherlands and the \"Shell\" Transport and Trading Company Ltd of the United Kingdom. It was a move largely driven by the need to compete globally with Standard Oil. The Royal Dutch Petroleum Company was a Dutch company founded in 1890 to develop an oilfield in Sumatra, and initially led by August Kessler, Hugo Loudon, and Henri Deterding. The \"Shell\" Transport and Trading Company (the quotation marks were part of the legal name) was a British company, founded in 1897 by Marcus Samuel, 1st Viscount Bearsted, and his brother Samuel Samuel. Their father had owned an antique company in Houndsditch, London, which expanded in 1833 to import and sell sea-shells, after which the company \"Shell\" took its name.",
+    "question": "When was Royal Shell Group Created?",
+    "answers": {
+      "text": [
+        "February 1907"
+      ],
+      "answer_start": [
+        3
+      ]
+    }
+  },
+  {
+    "id": "572e82d1c246551400ce428c",
+    "title": "Neptune",
+    "context": "Neptune is the eighth and farthest known planet from the Sun in the Solar System. It is the fourth-largest planet by diameter and the third-largest by mass. Among the giant planets in the Solar System, Neptune is the most dense. Neptune is 17 times the mass of Earth and is slightly more massive than its near-twin Uranus, which is 15 times the mass of Earth and slightly larger than Neptune.[c] Neptune orbits the Sun once every 164.8 years at an average distance of 30.1 astronomical units (4.50\u00d7109 km). Named after the Roman god of the sea, its astronomical symbol is \u2646, a stylised version of the god Neptune's trident.",
+    "question": "What planet is Neptune's near-twin? ",
+    "answers": {
+      "text": [
+        "Uranus"
+      ],
+      "answer_start": [
+        315
+      ]
+    }
+  },
+  {
+    "id": "572759d8f1498d1400e8f6d2",
+    "title": "Baptists",
+    "context": "Baptists are individuals who comprise a group of Christian denominations and churches that subscribe to a doctrine that baptism should be performed only for professing believers (believer's baptism, as opposed to infant baptism), and that it must be done by complete immersion (as opposed to affusion or sprinkling). Other tenets of Baptist churches include soul competency (liberty), salvation through faith alone, Scripture alone as the rule of faith and practice, and the autonomy of the local congregation. Baptists recognize two ministerial offices, elders and deacons. Baptist churches are widely considered to be Protestant churches, though some Baptists disavow this identity.",
+    "question": "What individuals subscribe to a doctrine that baptism should be performed only for professing believers?",
+    "answers": {
+      "text": [
+        "Baptists"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "id": "5731f388b9d445190005e6dd",
+    "title": "Party_leaders_of_the_United_States_House_of_Representatives",
+    "context": "Unlike in Westminster style legislatures or as with the Senate Majority Leader, the House Majority Leader's duties and prominence vary depending upon the style and power of the Speaker of the House. Typically, the Speaker does not participate in debate and rarely votes on the floor. In some cases, Majority Leaders have been more influential than the Speaker; notably Tom DeLay who was more prominent than Speaker Dennis Hastert. In addition, Speaker Newt Gingrich delegated to Dick Armey an unprecedented level of authority over scheduling legislation on the House floor.",
+    "question": "Does speaker of the House participate in dbate?",
+    "answers": {
+      "text": [
+        "Typically, the Speaker does not participate in debate"
+      ],
+      "answer_start": [
+        199
+      ]
+    }
+  },
+  {
+    "id": "56ddee969a695914005b96d2",
+    "title": "Iranian_languages",
+    "context": "The Iranian languages or Iranic languages form a branch of the Indo-Iranian languages, which in turn are a branch of the Indo-European language family. The speakers of Iranian languages are known as Iranian peoples. Historical Iranian languages are grouped in three stages: Old Iranian (until 400 BCE), Middle Iranian (400 BCE \u2013 900 CE), and New Iranian (since 900 CE). Of the Old Iranian languages, the better understood and recorded ones are Old Persian (a language of Achaemenid Iran) and Avestan (the language of the Avesta). Middle Iranian languages included Middle Persian (a language of Sassanid Iran), Parthian, and Bactrian.",
+    "question": "What is another term meaning Iranian languages?",
+    "answers": {
+      "text": [
+        "Iranic languages"
+      ],
+      "answer_start": [
+        25
+      ]
+    }
+  },
+  {
+    "id": "5727570ddd62a815002e9b54",
+    "title": "Alsace",
+    "context": "The region, as part of Lorraine, was part of the Holy Roman Empire, and then was gradually annexed by France in the 17th century, and formalized as one of the provinces of France. The Calvinist manufacturing republic of Mulhouse, known as Stadtrepublik M\u00fclhausen, became a part of Alsace after a vote by its citizens on 4 January 1798. Alsace is frequently mentioned with and as part of Lorraine and the former duchy of Lorraine, since it was a vital part of the duchy, and later because German possession as the imperial province (Alsace-Lorraine, 1871\u20131918) was contested in the 19th and 20th centuries; France and Germany exchanged control of parts of Lorraine (including Alsace) four times in 75 years.",
+    "question": "When did Stadtrepublik become a part of Alsace?",
+    "answers": {
+      "text": [
+        "4 January 1798"
+      ],
+      "answer_start": [
+        320
+      ]
+    }
+  },
+  {
+    "id": "56f81f0ea6d7ea1400e173d7",
+    "title": "Alps",
+    "context": "The Alps (/\u00e6lps/; Italian: Alpi [\u02c8alpi]; French: Alpes [alp]; German: Alpen [\u02c8\u0294alpm\u0329]; Slovene: Alpe [\u02c8\u00e1\u02d0lp\u025b]) are the highest and most extensive mountain range system that lies entirely in Europe, stretching approximately 1,200 kilometres (750 mi) across eight Alpine countries: Austria, France, Germany, Italy, Liechtenstein, Monaco, Slovenia, and Switzerland. The Caucasus Mountains are higher, and the Urals longer, but both lie partly in Asia. The mountains were formed over tens of millions of years as the African and Eurasian tectonic plates collided. Extreme shortening caused by the event resulted in marine sedimentary rocks rising by thrusting and folding into high mountain peaks such as Mont Blanc and the Matterhorn. Mont Blanc spans the French\u2013Italian border, and at 4,810 m (15,781 ft) is the highest mountain in the Alps. The Alpine region area contains about a hundred peaks higher than 4,000 m (13,123 ft), known as the \"four-thousanders\".",
+    "question": "What Country are the Alps located in?",
+    "answers": {
+      "text": [
+        "Europe"
+      ],
+      "answer_start": [
+        190
+      ]
+    }
+  },
+  {
+    "id": "5726b9e55951b619008f7bfb",
+    "title": "Bermuda",
+    "context": "The first known European explorer to reach Bermuda was Spanish sea captain Juan de Berm\u00fadez in 1503, after whom the islands are named. He claimed the apparently uninhabited islands for the Spanish Empire. Paying two visits to the archipelago, Berm\u00fadez never landed on the islands, but did create a recognisable map of the archipelago. Shipwrecked Portuguese mariners are now thought to have been responsible for the 1543 inscription in Portuguese Rock (previously called Spanish Rock). Subsequent Spanish or other European parties are believed to have released pigs there, which had become feral and abundant on the island by the time European settlement began. In 1609, the English Virginia Company, which had established Jamestown in Virginia (a term originally applied to all of the North American continent) two years earlier, permanently settled Bermuda in the aftermath of a hurricane, when the crew and passengers of the Sea Venture steered the ship onto the surrounding reef to prevent its sinking, then landed ashore.",
+    "question": "The first known European explorer to reach Bermuda was of what nationality?",
+    "answers": {
+      "text": [
+        "Spanish"
+      ],
+      "answer_start": [
+        55
+      ]
+    }
+  },
+  {
+    "id": "5726f3ccdd62a815002e960e",
+    "title": "Digimon",
+    "context": "(\u30c7\u30b8\u30e2\u30f3 Dejimon, branded as Digimon: Digital Monsters, stylized as DIGIMON), short for \"Digital Monsters\" (\u30c7\u30b8\u30bf\u30eb\u30e2\u30f3\u30b9\u30bf\u30fc Dejitaru Monsut\u0101), is a Japanese media franchise encompassing virtual pet toys, anime, manga, video games, films and a trading card game. The franchise focuses on Digimon creatures, which are monsters living in a \"Digital World\", a parallel universe that originated from Earth's various communication networks. In many incarnations, Digimon are raised by humans called \"Digidestined\" or \"Tamers\", and they team up to defeat evil Digimon and human villains who are trying to destroy the fabric of the Digital world.",
+    "question": "What does Digimon stand for?",
+    "answers": {
+      "text": [
+        "Digital Monsters"
+      ],
+      "answer_start": [
+        35
+      ]
+    }
+  },
+  {
+    "id": "572a054f6aef0514001551b4",
+    "title": "East_Prussia",
+    "context": "East Prussia enclosed the bulk of the ancestral lands of the Baltic Old Prussians. During the 13th century, the native Prussians were conquered by the crusading Teutonic Knights. The indigenous Balts who survived the conquest were gradually converted to Christianity. Because of Germanization and colonisation over the following centuries, Germans became the dominant ethnic group, while Poles and Lithuanians formed minorities. From the 13th century, East Prussia was part of the monastic state of the Teutonic Knights. After the Second Peace of Thorn in 1466 it became a fief of the Kingdom of Poland. In 1525, with the Prussian Homage, the province became the Duchy of Prussia. The Old Prussian language had become extinct by the 17th or early 18th century.",
+    "question": "Who defeated the native Prussians during the 13 century?",
+    "answers": {
+      "text": [
+        "Teutonic Knights"
+      ],
+      "answer_start": [
+        161
+      ]
+    }
+  },
+  {
+    "id": "57276fc45951b619008f89cd",
+    "title": "Miami",
+    "context": "Miami (/ma\u026a\u02c8\u00e6mi/; Spanish pronunciation: [mai\u02c8ami]) is a city located on the Atlantic coast in southeastern Florida and the seat of Miami-Dade County. The 44th-most populated city proper in the United States, with a population of 430,332, it is the principal, central, and most populous city of the Miami metropolitan area, and the second most populous metropolis in the Southeastern United States after Washington, D.C. According to the U.S. Census Bureau, Miami's metro area is the eighth-most populous and fourth-largest urban area in the United States, with a population of around 5.5 million.",
+    "question": "On which coast of Florida is Miami located?",
+    "answers": {
+      "text": [
+        "Atlantic"
+      ],
+      "answer_start": [
+        77
+      ]
+    }
+  },
+  {
+    "id": "57085206efce8f15003a7da0",
+    "title": "Pitch_(music)",
+    "context": "Pitch is an auditory sensation in which a listener assigns musical tones to relative positions on a musical scale based primarily on their perception of the frequency of vibration. Pitch is closely related to frequency, but the two are not equivalent. Frequency is an objective, scientific attribute that can be measured. Pitch is each person's subjective perception of a sound, which cannot be directly measured. However, this does not necessarily mean that most people won't agree on which notes are higher and lower.",
+    "question": "What type of sensation is pitch?",
+    "answers": {
+      "text": [
+        "auditory"
+      ],
+      "answer_start": [
+        12
+      ]
+    }
+  },
+  {
+    "id": "57332caa4776f41900660748",
+    "title": "Alfred_North_Whitehead",
+    "context": "The ultimate substantive legacy of Principia Mathematica is mixed. It is generally accepted that Kurt G\u00f6del's incompleteness theorem of 1931 definitively demonstrated that for any set of axioms and inference rules proposed to encapsulate mathematics, there would in fact be some truths of mathematics which could not be deduced from them, and hence that Principia Mathematica could never achieve its aims. However, G\u00f6del could not have come to this conclusion without Whitehead and Russell's book. In this way, Principia Mathematica's legacy might be described as its key role in disproving the possibility of achieving its own stated goals. But beyond this somewhat ironic legacy, the book popularized modern mathematical logic and drew important connections between logic, epistemology, and metaphysics.",
+    "question": "Despite its imperfection, what are now considered valuable achievements of Principia Mathematica?",
+    "answers": {
+      "text": [
+        "the book popularized modern mathematical logic and drew important connections between logic, epistemology, and metaphysics"
+      ],
+      "answer_start": [
+        682
+      ]
+    }
+  },
+  {
+    "id": "5727605b5951b619008f88e9",
+    "title": "North_Carolina",
+    "context": "North Carolina consists of three main geographic sections: the Atlantic Coastal Plain, which occupies the eastern 45% of the state; the Piedmont region, which contains the middle 35%; and the Appalachian Mountains and foothills. The extreme eastern section of the state contains the Outer Banks, a string of sandy, narrow barrier islands between the Atlantic Ocean and two inland waterways or \"sounds\": Albemarle Sound in the north and Pamlico Sound in the south. They are the two largest landlocked sounds in the United States.",
+    "question": "How many main geographical sections make up North Carolina?",
+    "answers": {
+      "text": [
+        "three"
+      ],
+      "answer_start": [
+        27
+      ]
+    }
+  },
+  {
+    "id": "5726ed33f1498d1400e8f003",
+    "title": "Czech_language",
+    "context": "Czech (/\u02c8t\u0283\u025bk/; \u010de\u0161tina Czech pronunciation: [\u02c8t\u0361\u0283\u025b\u0283c\u026ana]), formerly known as Bohemian (/bo\u028a\u02c8hi\u02d0mi\u0259n, b\u0259-/; lingua Bohemica in Latin), is a West Slavic language strongly influenced by Latin and German language, spoken by over 10 million people and it is the official language of the Czech Republic. Czech's closest relative is Slovak, with which it is mutually intelligible. It is closely related to other West Slavic languages, such as Silesian and Polish. Although most Czech vocabulary is based on shared roots with Slavic, Romance, and Germanic languages, many loanwords (most associated with high culture) have been adopted in recent years.",
+    "question": "How many people speak Czech?",
+    "answers": {
+      "text": [
+        "10 million"
+      ],
+      "answer_start": [
+        226
+      ]
+    }
+  },
+  {
+    "id": "5727ad322ca10214002d936c",
+    "title": "Sichuan",
+    "context": "Throughout its prehistory and early history, the region and its vicinity in the Yangtze region was the cradle of unique local civilizations which can be dated back to at least the 15th century BC and coinciding with the later years of the Shang and Zhou dynasties in North China. Sichuan was referred to in ancient Chinese sources as Ba-Shu (\u5df4\u8700), an abbreviation of the kingdoms of Ba and Shu which existed within the Sichuan Basin. Ba included Chongqing and the land in eastern Sichuan along the Yangtze and some tributary streams, while Shu included today's Chengdu, its surrounding plain and adjacent territories in western Sichuan.",
+    "question": "What was Sichuan referred to as by ancient Chinese sources?",
+    "answers": {
+      "text": [
+        "Ba-Shu"
+      ],
+      "answer_start": [
+        334
+      ]
+    }
+  },
+  {
+    "id": "5722c9db0dadf01500fa1ee9",
+    "title": "Queen_Victoria",
+    "context": "Victoria married her first cousin, Prince Albert of Saxe-Coburg and Gotha, in 1840. Their nine children married into royal and noble families across the continent, tying them together and earning her the sobriquet \"the grandmother of Europe\". After Albert's death in 1861, Victoria plunged into deep mourning and avoided public appearances. As a result of her seclusion, republicanism temporarily gained strength, but in the latter half of her reign her popularity recovered. Her Golden and Diamond Jubilees were times of public celebration.",
+    "question": "Who did Victoria marry?",
+    "answers": {
+      "text": [
+        "Prince Albert"
+      ],
+      "answer_start": [
+        35
+      ]
+    }
+  },
+  {
+    "id": "572f1aaecb0c0d14000f1772",
+    "title": "Santa_Monica,_California",
+    "context": "Santa Monica is a beachfront city in western Los Angeles County, California, United States. The city is named after the Christian saint, Monica. Situated on Santa Monica Bay, it is bordered on three sides by the city of Los Angeles \u2013 Pacific Palisades to the north, Brentwood on the northeast, Sawtelle on the east, Mar Vista on the southeast, and Venice on the south. Santa Monica is well known for its affluent single-family neighborhoods but also has many neighborhoods consisting primarily of condominiums and apartments. Over two-thirds of Santa Monica's residents are renters. The Census Bureau population for Santa Monica in 2010 was 89,736.",
+    "question": "What type of city is Santa Monica?",
+    "answers": {
+      "text": [
+        "beachfront"
+      ],
+      "answer_start": [
+        18
+      ]
+    }
+  },
+  {
+    "id": "56dfb9227aa994140058e079",
+    "title": "Internet_service_provider",
+    "context": "An Internet service provider (ISP) is an organization that provides services for accessing, using, the Internet. Internet service providers may be organized in various forms, such as commercial, community-owned, non-profit, or otherwise privately owned.",
+    "question": "What does ISP stand for?",
+    "answers": {
+      "text": [
+        "Internet service provider"
+      ],
+      "answer_start": [
+        3
+      ]
+    }
+  },
+  {
+    "id": "57276dd7708984140094dd51",
+    "title": "Dissolution_of_the_Soviet_Union",
+    "context": "The dissolution of the Soviet Union was formally enacted on December 26, 1991, as a result of the declaration no. 142-\u041d of the Soviet of the Republics of the Supreme Soviet of the Soviet Union. The declaration acknowledged the independence of the former Soviet republics and created the Commonwealth of Independent States (CIS), although five of the signatories ratified it much later or not at all. On the previous day, Soviet President Mikhail Gorbachev, the eighth and last leader of the Soviet Union, resigned, declared his office extinct, and handed over its powers \u2013 including control of the Soviet nuclear missile launching codes \u2013 to Russian President Boris Yeltsin. That evening at 7:32 p.m., the Soviet flag was lowered from the Kremlin for the last time and replaced with the pre-revolutionary Russian flag.",
+    "question": "On what date did the Soviet Union dissolve?",
+    "answers": {
+      "text": [
+        "December 26, 1991"
+      ],
+      "answer_start": [
+        60
+      ]
+    }
+  },
+  {
+    "id": "5728407e3acd2414000df7d1",
+    "title": "Labour_Party_(UK)",
+    "context": "Labour runs a minority government in the Welsh Assembly under Carwyn Jones, is the largest opposition party in the Scottish Parliament and has twenty MEPs in the European Parliament, sitting in the Socialists and Democrats Group. The party also organises in Northern Ireland, but does not contest elections to the Northern Ireland Assembly. The Labour Party is a full member of the Party of European Socialists and Progressive Alliance, and holds observer status in the Socialist International. In September 2015, Jeremy Corbyn was elected Leader of the Labour Party.",
+    "question": "Who runs the Welsh Assembly?",
+    "answers": {
+      "text": [
+        "Carwyn Jones"
+      ],
+      "answer_start": [
+        62
+      ]
+    }
+  },
+  {
+    "id": "5728b2912ca10214002da5fa",
+    "title": "Paris",
+    "context": "Since the 19th century, the built-up area of Paris has grown far beyond its administrative borders; together with its suburbs, the whole agglomeration has a population of 10,550,350 (Jan. 2012 census). Paris' metropolitan area spans most of the Paris region and has a population of 12,341,418 (Jan. 2012 census), or one-fifth of the population of France. The administrative region covers 12,012 km\u00b2 (4,638 mi\u00b2), with approximately 12 million inhabitants as of 2014, and has its own regional council and president.",
+    "question": "What is the aggregate population of Paris?",
+    "answers": {
+      "text": [
+        "10,550,350"
+      ],
+      "answer_start": [
+        171
+      ]
+    }
+  },
+  {
+    "id": "570c22336b8089140040fb3a",
+    "title": "Federal_Bureau_of_Investigation",
+    "context": "Hoover began using wiretapping in the 1920s during Prohibition to arrest bootleggers. In the 1927 case Olmstead v. United States, in which a bootlegger was caught through telephone tapping, the United States Supreme Court ruled that FBI wiretaps did not violate the Fourth Amendment as unlawful search and seizure, as long as the FBI did not break into a person's home to complete the tapping. After Prohibition's repeal, Congress passed the Communications Act of 1934, which outlawed non-consensual phone tapping, but allowed bugging. In the 1939 case Nardone v. United States, the court ruled that due to the 1934 law, evidence the FBI obtained by phone tapping was inadmissible in court. After the 1967 case Katz v. United States overturned the 1927 case that had allowed bugging, Congress passed the Omnibus Crime Control Act, allowing public authorities to tap telephones during investigations as long as they obtain a warrant beforehand.",
+    "question": "What tool did Hoover use to find bootleggers?",
+    "answers": {
+      "text": [
+        "wiretapping"
+      ],
+      "answer_start": [
+        19
+      ]
+    }
+  },
+  {
+    "id": "56df47738bc80c19004e49e1",
+    "title": "United_Nations_Population_Fund",
+    "context": "The United Nations Population Fund (UNFPA), formerly the United Nations Fund for Population Activities, is a UN organization. The UNFPA says it \"is the lead UN agency for delivering a world where every pregnancy is wanted, every childbirth is safe and every young person's potential is fulfilled.\"  Their work involves the improvement of reproductive health; including creation of national strategies and protocols, and providing supplies and services. The organization has recently been known for its worldwide campaign against obstetric fistula and female genital mutilation.",
+    "question": "What is the current name of the United Nations Fund for Population Activities?",
+    "answers": {
+      "text": [
+        "United Nations Population Fund"
+      ],
+      "answer_start": [
+        4
+      ]
+    }
+  },
+  {
+    "id": "570bce516b8089140040fa42",
+    "title": "ASCII",
+    "context": "Originally based on the English alphabet, ASCII encodes 128 specified characters into seven-bit integers as shown by the ASCII chart on the right. The characters encoded are numbers 0 to 9, lowercase letters a to z, uppercase letters A to Z, basic punctuation symbols, control codes that originated with Teletype machines, and a space. For example, lowercase j would become binary 1101010 and decimal 106. ASCII includes definitions for 128 characters: 33 are non-printing control characters (many now obsolete) that affect how text and space are processed and 95 printable characters, including the space (which is considered an invisible graphic:223).",
+    "question": "What is the ASCII based on?",
+    "answers": {
+      "text": [
+        "English alphabet"
+      ],
+      "answer_start": [
+        24
+      ]
+    }
+  },
+  {
+    "id": "5726a6b8708984140094cced",
+    "title": "Switzerland",
+    "context": "Switzerland (/\u02c8sw\u026ats\u0259rl\u0259nd/), officially the Swiss Confederation (Latin: Confoederatio Helvetica, hence its abbreviation CH), is a country in Europe. While still named the \"Swiss Confederation\" for historical reasons, modern Switzerland is a federal directorial republic consisting of 26 cantons, with Bern as the seat of the federal authorities, called Bundesstadt (\"federal city\").[note 3] The country is situated in Western and Central Europe,[note 4] and is bordered by Italy to the south, France to the west, Germany to the north, and Austria and Liechtenstein to the east. Switzerland is a landlocked country geographically divided between the Alps, the Swiss Plateau and the Jura, spanning an area of 41,285 km2 (15,940 sq mi). While the Alps occupy the greater part of the territory, the Swiss population of approximately 8 million people is concentrated mostly on the Plateau, where the largest cities are to be found: among them are the two global and economic centres, Z\u00fcrich and Geneva.",
+    "question": "What is the official name of Switzerland?",
+    "answers": {
+      "text": [
+        "Swiss Confederation"
+      ],
+      "answer_start": [
+        45
+      ]
+    }
+  },
+  {
+    "id": "571a9f0e4faf5e1900b8ab3c",
+    "title": "Umayyad_Caliphate",
+    "context": "The rivalries between the Arab tribes had caused unrest in the provinces outside Syria, most notably in the Second Muslim Civil War of 680\u2013692 CE and the Berber Revolt of 740\u2013743 CE. During the Second Civil War, leadership of the Umayyad clan shifted from the Sufyanid branch of the family to the Marwanid branch. As the constant campaigning exhausted the resources and manpower of the state, the Umayyads, weakened by the Third Muslim Civil War of 744\u2013747 CE, were finally toppled by the Abbasid Revolution in 750 CE/132 AH. A branch of the family fled across North Africa to Al-Andalus, where they established the Caliphate of C\u00f3rdoba, which lasted until 1031 before falling due to the Fitna of al-\u00c1ndalus.",
+    "question": "In what year CE did the Second Muslim Civil War end?",
+    "answers": {
+      "text": [
+        "692"
+      ],
+      "answer_start": [
+        139
+      ]
+    }
+  },
+  {
+    "id": "570f25345ab6b81900390e83",
+    "title": "Circadian_rhythm",
+    "context": "Circadian rhythms allow organisms to anticipate and prepare for precise and regular environmental changes. They thus enable organisms to best capitalize on environmental resources (e.g. light and food) compared to those that cannot predict such availability. It has therefore been suggested that circadian rhythms put organisms at a selective advantage in evolutionary terms. However, rhythmicity appears to be as important in regulating and coordinating internal metabolic processes, as in coordinating with the environment. This is suggested by the maintenance (heritability) of circadian rhythms in fruit flies after several hundred generations in constant laboratory conditions, as well as in creatures in constant darkness in the wild, and by the experimental elimination of behavioral, but not physiological, circadian rhythms in quail.",
+    "question": "For what do Circadian rhythms let an organism prepare?",
+    "answers": {
+      "text": [
+        "environmental changes"
+      ],
+      "answer_start": [
+        84
+      ]
+    }
+  },
+  {
+    "id": "572fc5b8b2c2fd140056843d",
+    "title": "San_Diego",
+    "context": "With an estimated population of 1,381,069 as of July 1, 2014, San Diego is the eighth-largest city in the United States and second-largest in California. It is part of the San Diego\u2013Tijuana conurbation, the second-largest transborder agglomeration between the US and a bordering country after Detroit\u2013Windsor, with a population of 4,922,723 people. San Diego is the birthplace of California and is known for its mild year-round climate, natural deep-water harbor, extensive beaches, long association with the United States Navy and recent emergence as a healthcare and biotechnology development center.",
+    "question": "Which city in Mexico does San Diego border?",
+    "answers": {
+      "text": [
+        "Tijuana"
+      ],
+      "answer_start": [
+        182
+      ]
+    }
+  },
+  {
+    "id": "570af6316b8089140040f63a",
+    "title": "Gregorian_calendar",
+    "context": "To unambiguously specify the date, dual dating or Old Style (O.S.) and New Style (N.S.) are sometimes used with dates. Dual dating uses two consecutive years because of differences in the starting date of the year, or includes both the Julian and Gregorian dates. Old Style and New Style (N.S.) indicate either whether the start of the Julian year has been adjusted to start on 1 January (N.S.) even though documents written at the time use a different start of year (O.S.), or whether a date conforms to the Julian calendar (O.S.) rather than the Gregorian (N.S.).",
+    "question": "What does duel dating use to show the date?",
+    "answers": {
+      "text": [
+        "two consecutive years"
+      ],
+      "answer_start": [
+        136
+      ]
+    }
+  },
+  {
+    "id": "5726b6e6f1498d1400e8e896",
+    "title": "Chinese_characters",
+    "context": "Chinese characters are logograms used in the writing of Chinese and some other Asian languages. In Standard Chinese they are called Hanzi (simplified Chinese: \u6c49\u5b57; traditional Chinese: \u6f22\u5b57). They have been adapted to write a number of other languages including: Japanese, where they are known as kanji, Korean, where they are known as hanja, and Vietnamese in a system known as ch\u1eef N\u00f4m. Collectively, they are known as CJKV characters. In English, they are sometimes called Han characters. Chinese characters constitute the oldest continuously used system of writing in the world. By virtue of their widespread current use in East Asia, and historic use throughout the Sinosphere, Chinese characters are among the most widely adopted writing systems in the world.",
+    "question": "What are logograms used in the writing of Chinese?",
+    "answers": {
+      "text": [
+        "Chinese characters"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "id": "570be2d2ec8fbc190045bbbe",
+    "title": "Digestion",
+    "context": "In the human digestive system, food enters the mouth and mechanical digestion of the food starts by the action of mastication (chewing), a form of mechanical digestion, and the wetting contact of saliva. Saliva, a liquid secreted by the salivary glands, contains salivary amylase, an enzyme which starts the digestion of starch in the food; the saliva also contains mucus, which lubricates the food, and hydrogen carbonate, which provides the ideal conditions of pH (alkaline) for amylase to work. After undergoing mastication and starch digestion, the food will be in the form of a small, round slurry mass called a bolus. It will then travel down the esophagus and into the stomach by the action of peristalsis. Gastric juice in the stomach starts protein digestion. Gastric juice mainly contains hydrochloric acid and pepsin. As these two chemicals may damage the stomach wall, mucus is secreted by the stomach, providing a slimy layer that acts as a shield against the damaging effects of the chemicals. At the same time protein digestion is occurring, mechanical mixing occurs by peristalsis, which is waves of muscular contractions that move along the stomach wall. This allows the mass of food to further mix with the digestive enzymes.",
+    "question": "What is the first step in the human digestive system?",
+    "answers": {
+      "text": [
+        "the action of mastication (chewing)"
+      ],
+      "answer_start": [
+        100
+      ]
+    }
+  },
+  {
+    "id": "56f7c172a6d7ea1400e17268",
+    "title": "Szlachta",
+    "context": "The szlachta ([\u02c8\u0282laxta] ( listen), exonym: Nobility) was a legally privileged noble class with origins in the Kingdom of Poland.
+               It gained considerable institutional privileges between 1333 and 1370 during the reign of King Casimir III the Great.:211 In 1413,
+               following a series of tentative personal unions between the Grand Duchy of Lithuania and the Crown Kingdom of Poland,
+              the existing Lithuanian nobility formally joined this class.:211 As the Polish-Lithuanian Commonwealth (1569\u20131795) evolved and expanded in territory,
+              its membership grew to include the leaders of Ducal Prussia, Podolian and Ruthenian lands.",
+    "question": "What class was slackta in Poland?",
+    "answers": {
+      "text": [
+        "noble class"
+      ],
+      "answer_start": [
+        78
+      ]
+    }
+  },
+  {
+    "id": "572e995fdfa6aa1500f8d1c5",
+    "title": "Greeks",
+    "context": "Greek colonies and communities have been historically established on the shores of the Mediterranean Sea and Black Sea, but the Greek people have always been centered around the Aegean and Ionian seas, where the Greek language has been spoken since the Bronze Age. Until the early 20th century, Greeks were distributed between the Greek peninsula, the western coast of Asia Minor, the Black Sea coast, Cappadocia in central Anatolia, Egypt, the Balkans, Cyprus, and Constantinople. Many of these regions coincided to a large extent with the borders of the Byzantine Empire of the late 11th century and the Eastern Mediterranean areas of ancient Greek colonization. The cultural centers of the Greeks have included Athens, Thessalonica, Alexandria, Smyrna, and Constantinople at various periods.",
+    "question": "Which two seas have been most central to Greek history?",
+    "answers": {
+      "text": [
+        "Aegean and Ionian seas"
+      ],
+      "answer_start": [
+        178
+      ]
+    }
+  },
+  {
+    "id": "57327732b9d445190005eb3f",
+    "title": "Humanism",
+    "context": "Humanism is a philosophical and ethical stance that emphasizes the value and agency of human beings, individually and collectively, and generally prefers critical thinking and evidence (rationalism, empiricism) over acceptance of dogma or superstition. The meaning of the term humanism has fluctuated according to the successive intellectual movements which have identified with it. Generally, however, humanism refers to a perspective that affirms some notion of human freedom and progress. In modern times, humanist movements are typically aligned with secularism, and today humanism typically refers to a non-theistic life stance centred on human agency and looking to science rather than revelation from a supernatural source to understand the world.",
+    "question": "What can be seen as of essential importance to a practiced of humanism?",
+    "answers": {
+      "text": [
+        "human beings"
+      ],
+      "answer_start": [
+        87
+      ]
+    }
+  },
+  {
+    "id": "56be85543aeaaa14008c9063",
+    "title": "Beyonc\u00e9",
+    "context": "Beyonc\u00e9 Giselle Knowles-Carter (/bi\u02d0\u02c8j\u0252nse\u026a/ bee-YON-say) (born September 4, 1981) is an American singer, songwriter, record producer and actress. Born and raised in Houston, Texas, she performed in various singing and dancing competitions as a child, and rose to fame in the late 1990s as lead singer of R&B girl-group Destiny's Child. Managed by her father, Mathew Knowles, the group became one of the world's best-selling girl groups of all time. Their hiatus saw the release of Beyonc\u00e9's debut album, Dangerously in Love (2003), which established her as a solo artist worldwide, earned five Grammy Awards and featured the Billboard Hot 100 number-one singles \"Crazy in Love\" and \"Baby Boy\".",
+    "question": "When did Beyonce start becoming popular?",
+    "answers": {
+      "text": [
+        "in the late 1990s"
+      ],
+      "answer_start": [
+        269
+      ]
+    }
+  },
+  {
+    "id": "5725b2e6b80e561500fa6f34",
+    "title": "Hellenistic_period",
+    "context": "The Hellenistic period covers the period of ancient Greek (Hellenic) history and Mediterranean history between the death of Alexander the Great in 323 BC and the emergence of the Roman Empire as signified by the Battle of Actium in 31 BC and the subsequent conquest of Ptolemaic Egypt the following year. At this time, Greek cultural influence and power was at its peak in Europe, Africa and Asia, experiencing prosperity and progress in the arts, exploration, literature, theatre, architecture, music, mathematics, philosophy, and science. For example, competitive public games took place, ideas in biology, and popular entertainment in theaters. It is often considered a period of transition, sometimes even of decadence or degeneration, compared to the enlightenment of the Greek Classical era. The Hellenistic period saw the rise of New Comedy, Alexandrian poetry, the Septuagint and the philosophies of Stoicism and Epicureanism. Greek Science was advanced by the works of the mathematician Euclid and the polymath Archimedes. The religious sphere expanded to include new gods such as the Greco-Egyptian Serapis, eastern deities such as Attis and Cybele and the Greek adoption of Buddhism.",
+    "question": "What mathematician advance Greek Science?",
+    "answers": {
+      "text": [
+        "Greek Science"
+      ],
+      "answer_start": [
+        935
+      ]
+    }
+  },
+  {
+    "id": "56e0c8ed7aa994140058e6e9",
+    "title": "Web_browser",
+    "context": "A web browser (commonly referred to as a browser) is a software application for retrieving, presenting, and traversing information resources on the World Wide Web. An information resource is identified by a Uniform Resource Identifier (URI/URL) and may be a web page, image, video or other piece of content. Hyperlinks present in resources enable users easily to navigate their browsers to related resources.",
+    "question": "What do people typically call a web browser?",
+    "answers": {
+      "text": [
+        "browser"
+      ],
+      "answer_start": [
+        6
+      ]
+    }
+  },
+  {
+    "id": "572a9bb9be1ee31400cb80b9",
+    "title": "Guam",
+    "context": "Guam (i/\u02c8\u0261w\u0251\u02d0m/ or /\u02c8\u0261w\u0252m/; Chamorro: Gu\u00e5h\u00e5n;[needs IPA] formally the Territory of Guam) is an unincorporated and organized territory of the United States. Located in the northwestern Pacific Ocean, Guam is one of five American territories with an established civilian government. The capital city is Hag\u00e5t\u00f1a, and the most populous city is Dededo. In 2015, 161,785 people resided on Guam. Guamanians are American citizens by birth. Guam has an area of 544 km2 (210 sq mi) and a density of 297/km\u00b2 (770/sq mi). It is the largest and southernmost of the Mariana Islands, and the largest island in Micronesia. Among its municipalities, Mongmong-Toto-Maite has the highest density at 1,425/km\u00b2 (3,691/sq mi), whereas Inarajan and Umatac have the lowest density at 47/km\u00b2 (119/sq mi). The highest point is Mount Lamlam at 406 meters (1,332 ft) above sea level.",
+    "question": "What country is Guam a territory of?",
+    "answers": {
+      "text": [
+        "United States"
+      ],
+      "answer_start": [
+        141
+      ]
+    }
+  },
+  {
+    "id": "5726fa61f1498d1400e8f1b0",
+    "title": "Planck_constant",
+    "context": "First recognized in 1900 by Max Planck, it was originally the proportionality constant between the minimal increment of energy, E, of a hypothetical electrically charged oscillator in a cavity that contained black body radiation, and the frequency, f, of its associated electromagnetic wave. In 1905 the value E, the minimal energy increment of a hypothetical oscillator, was theoretically associated by Einstein with a \"quantum\" or minimal element of the energy of the electromagnetic wave itself. The light quantum behaved in some respects as an electrically neutral particle, as opposed to an electromagnetic wave. It was eventually called the photon.",
+    "question": "What is considered the minimal energy increment of a hypothetical oscillator?",
+    "answers": {
+      "text": [
+        "value E"
+      ],
+      "answer_start": [
+        304
+      ]
+    }
+  }
+]
