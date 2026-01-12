@@ -1,51 +1,51 @@
-question,gold_answers,no_rag_answer,rag_answer
-What type of faith is Protestantism?,Christian,Protestantism,Christian
-What is the center of the nervous system in all creatures?,The brain,a central nervous system,The brain
-What is Bell most famous for inventing?,telephone,a telegraph,practical telephone
-Which company made Spectre?,Eon Productions,Spectre,Eon Productions
-How many Copa del Rey trophies has Barcelona won?,27,ten,27
-For which industry were elevators first used?,coal mines,construction,coal mines
-What is the Latin for Order of Preachers?,Ordo Praedicatorum,Order of Preachers,Ordo Praedicatorum
-When does Fastelavn occur?,Shrove Tuesday,a symbiotic relationship,Shrove Tuesday
-Whose technology enabled the Space Race between the Soviet Union and the united States?,German rocket technology,Soviet Union,captured German rocket technology and personnel
-What is a group of endothermic vertebrates characterised by feathers and toothless beaked jaws?,Birds,apes,Birds
-When was Royal Shell Group Created?,February 1907,1892,February 1907
-What planet is Neptune's near-twin? ,Uranus,venus,Uranus
-What individuals subscribe to a doctrine that baptism should be performed only for professing believers?,Baptists,christians,Baptists
-Does speaker of the House participate in dbate?,"Typically, the Speaker does not participate in debate",Speaker of the House,"Typically, the Speaker does not participate in debate and rarely votes on the floor."
-What is another term meaning Iranian languages?,Iranic languages,Persian languages,Iranic languages
-When did Stadtrepublik become a part of Alsace?,4 January 1798,1871,4 January 1798
-What Country are the Alps located in?,Europe,Switzerland,Europe
-The first known European explorer to reach Bermuda was of what nationality?,Spanish,British,Spanish
-What does Digimon stand for?,Digital Monsters,Digimon,Digital Monsters
-Who defeated the native Prussians during the 13 century?,Teutonic Knights,the Germans,Teutonic Knights
-On which coast of Florida is Miami located?,Atlantic,south coast,Atlantic coast
-What type of sensation is pitch?,auditory,a sound,auditory
-"Despite its imperfection, what are now considered valuable achievements of Principia Mathematica?","the book popularized modern mathematical logic and drew important connections between logic, epistemology, and metaphysics",the first atomic model,"modern mathematical logic and drew important connections between logic, epistemology, and metaphysics"
-How many main geographical sections make up North Carolina?,three,four,three
-How many people speak Czech?,10 million,ten million,over 10 million
-What was Sichuan referred to as by ancient Chinese sources?,Ba-Shu,emperor,Ba-Shu
-Who did Victoria marry?,Prince Albert,a king,Prince Albert of Saxe-Coburg and Gotha
-What type of city is Santa Monica?,beachfront,urban,beachfront
-What does ISP stand for?,Internet service provider,Internet service provider,Internet service provider
-On what date did the Soviet Union dissolve?,"December 26, 1991",1 December 1991,"December 26, 1991"
-Who runs the Welsh Assembly?,Carwyn Jones,the Welsh Parliament,Carwyn Jones
-What is the aggregate population of Paris?,"10,550,350","73,069","10,550,350"
-What tool did Hoover use to find bootleggers?,wiretapping,a snare gun,wiretapping
-What is the current name of the United Nations Fund for Population Activities?,United Nations Population Fund,UN Population Fund,The United Nations Population Fund (UNFPA)
-What is the ASCII based on?,English alphabet,the ASCII is a standardized system of digitized character representations of the alphabet,English alphabet
-What is the official name of Switzerland?,Swiss Confederation,Switzerland,Swiss Confederation
-In what year CE did the Second Muslim Civil War end?,692,1776,682
-For what do Circadian rhythms let an organism prepare?,environmental changes,cellular respiration,environmental changes
-Which city in Mexico does San Diego border?,Tijuana,San Diego,Tijuana
-What does duel dating use to show the date?,two consecutive years,a ring,two consecutive years
-What are logograms used in the writing of Chinese?,Chinese characters,,Chinese characters
-What is the first step in the human digestive system?,the action of mastication (chewing),esophagus,food enters the mouth
-What class was slackta in Poland?,noble class,a slackta,noble class
-Which two seas have been most central to Greek history?,Aegean and Ionian seas,the Persian Gulf,Aegean and Ionian seas
-What can be seen as of essential importance to a practiced of humanism?,human beings,the human spirit,value and agency of human beings
-When did Beyonce start becoming popular?,in the late 1990s,in the early 1980s,late 1990s
-What mathematician advance Greek Science?,Greek Science,Yuri Gagarin,Euclid
-What do people typically call a web browser?,browser,web browser,browser
-What country is Guam a territory of?,United States,United States of America,United States
-What is considered the minimal energy increment of a hypothetical oscillator?,value E,a constant,E
+question,gold_answers,no_rag_answer,rag_answer,no_rag_correct,rag_correct
+What type of faith is Protestantism?,Christian,Protestantism,Christian,0,1
+What is the center of the nervous system in all creatures?,The brain,a central nervous system,The brain,0,1
+What is Bell most famous for inventing?,telephone,a telegraph,practical telephone,0,1
+Which company made Spectre?,Eon Productions,Spectre,Eon Productions,0,1
+How many Copa del Rey trophies has Barcelona won?,27,ten,27,0,1
+For which industry were elevators first used?,coal mines,construction,coal mines,0,1
+What is the Latin for Order of Preachers?,Ordo Praedicatorum,Order of Preachers,Ordo Praedicatorum,0,1
+When does Fastelavn occur?,Shrove Tuesday,a symbiotic relationship,Shrove Tuesday,0,1
+Whose technology enabled the Space Race between the Soviet Union and the united States?,German rocket technology,Soviet Union,captured German rocket technology and personnel,0,1
+What is a group of endothermic vertebrates characterised by feathers and toothless beaked jaws?,Birds,apes,Birds,0,1
+When was Royal Shell Group Created?,February 1907,1892,February 1907,0,1
+What planet is Neptune's near-twin? ,Uranus,venus,Uranus,0,1
+What individuals subscribe to a doctrine that baptism should be performed only for professing believers?,Baptists,christians,Baptists,0,1
+Does speaker of the House participate in dbate?,"Typically, the Speaker does not participate in debate",Speaker of the House,"Typically, the Speaker does not participate in debate and rarely votes on the floor.",0,1
+What is another term meaning Iranian languages?,Iranic languages,Persian languages,Iranic languages,0,1
+When did Stadtrepublik become a part of Alsace?,4 January 1798,1871,4 January 1798,0,1
+What Country are the Alps located in?,Europe,Switzerland,Europe,0,1
+The first known European explorer to reach Bermuda was of what nationality?,Spanish,British,Spanish,0,1
+What does Digimon stand for?,Digital Monsters,Digimon,Digital Monsters,0,1
+Who defeated the native Prussians during the 13 century?,Teutonic Knights,the Germans,Teutonic Knights,0,1
+On which coast of Florida is Miami located?,Atlantic,south coast,Atlantic coast,0,1
+What type of sensation is pitch?,auditory,a sound,auditory,0,1
+"Despite its imperfection, what are now considered valuable achievements of Principia Mathematica?","the book popularized modern mathematical logic and drew important connections between logic, epistemology, and metaphysics",the first atomic model,"modern mathematical logic and drew important connections between logic, epistemology, and metaphysics",0,1
+How many main geographical sections make up North Carolina?,three,four,three,0,1
+How many people speak Czech?,10 million,ten million,over 10 million,1,0
+What was Sichuan referred to as by ancient Chinese sources?,Ba-Shu,emperor,Ba-Shu,0,1
+Who did Victoria marry?,Prince Albert,a king,Prince Albert of Saxe-Coburg and Gotha,0,1
+What type of city is Santa Monica?,beachfront,urban,beachfront,0,1
+What does ISP stand for?,Internet service provider,Internet service provider,Internet service provider,1,1
+On what date did the Soviet Union dissolve?,"December 26, 1991",1 December 1991,"December 26, 1991",0,1
+Who runs the Welsh Assembly?,Carwyn Jones,the Welsh Parliament,Carwyn Jones,0,1
+What is the aggregate population of Paris?,"10,550,350","73,069","10,550,350",0,1
+What tool did Hoover use to find bootleggers?,wiretapping,a snare gun,wiretapping,0,1
+What is the current name of the United Nations Fund for Population Activities?,United Nations Population Fund,UN Population Fund,The United Nations Population Fund (UNFPA),0,1
+What is the ASCII based on?,English alphabet,the ASCII is a standardized system of digitized character representations of the alphabet,English alphabet,0,1
+What is the official name of Switzerland?,Swiss Confederation,Switzerland,Swiss Confederation,0,1
+In what year CE did the Second Muslim Civil War end?,692,1776,682,0,0
+For what do Circadian rhythms let an organism prepare?,environmental changes,cellular respiration,environmental changes,0,1
+Which city in Mexico does San Diego border?,Tijuana,San Diego,Tijuana,0,1
+What does duel dating use to show the date?,two consecutive years,a ring,two consecutive years,0,1
+What are logograms used in the writing of Chinese?,Chinese characters,,Chinese characters,0,1
+What is the first step in the human digestive system?,the action of mastication (chewing),esophagus,food enters the mouth,0,0
+What class was slackta in Poland?,noble class,a slackta,noble class,0,1
+Which two seas have been most central to Greek history?,Aegean and Ionian seas,the Persian Gulf,Aegean and Ionian seas,0,1
+What can be seen as of essential importance to a practiced of humanism?,human beings,the human spirit,value and agency of human beings,0,0
+When did Beyonce start becoming popular?,in the late 1990s,in the early 1980s,late 1990s,0,1
+What mathematician advance Greek Science?,Greek Science,Yuri Gagarin,Euclid,0,1
+What do people typically call a web browser?,browser,web browser,browser,0,1
+What country is Guam a territory of?,United States,United States of America,United States,1,1
+What is considered the minimal energy increment of a hypothetical oscillator?,value E,a constant,E,0,1
